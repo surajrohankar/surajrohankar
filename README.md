@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Suraj Rohankar
-- ✨ I'm MuleSoft Certified Developer.
+- ✨ I'm MuleSoft Certified Developer and Architect.
 - 🌱 I’m MuleSoft Connector Developer.
-- 🌱 I'm Workato Connector Developer.
 - 👀 I’m interested in integrating the systems.
 - 📫 You can reach me at surajwrohankar@gmail.com/ +918668675695
 - 👀 Visit my [Portfolio](https://surajrohankar.github.io)
